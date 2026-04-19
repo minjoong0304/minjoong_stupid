@@ -1,7 +1,7 @@
 <!-- src/components/common/Footer.vue -->
 <template>
   <footer class="footer">
-    <p>&copy; 2024 Bong-coding. All rights reserved.</p>
+    <p>&copy; 2026 Minjoong-coding. All rights reserved.</p>
   </footer>
 </template>
 
